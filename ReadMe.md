@@ -1,6 +1,6 @@
-#lambda-java-sample
+# lambda-java-sample
 
-##Program Description:
+## Program Description:
 
 Warm up to Java.
 
